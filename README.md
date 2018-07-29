@@ -1,2 +1,2 @@
-# Kode47 SQl Code
+# Kode47 SQL Code
 ## Kudzai Nyandoro
