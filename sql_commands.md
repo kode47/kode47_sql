@@ -1,5 +1,8 @@
 - To see all SQL commans run the following
-- psql mydb
+
+```bash
+$ psql mydb
+```
 
 mydb=# \h
 
