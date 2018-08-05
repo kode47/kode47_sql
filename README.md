@@ -1,4 +1,4 @@
-## Kode47 SQL Code with PostgreSQL
+## Kode47 SQL Labs with PostgreSQL
 ### Kudzai Nyandoro
 - <https://zambezi.app>
 - <kudzai@zambezi.app>
