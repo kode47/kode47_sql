@@ -17,4 +17,4 @@ values('July',4,4.5,4.25,3.75,6.25,6,4,5.5);
 
 -- Week 5
 insert into july_studio_hours(month, week, sunday_hours, monday_hours, tuesday_hours, wednesday_hours, thursday_hours, friday_hours, saturday_hours)
-values('July',5,6.5,6.75,5,0,0,0,0);
+values('July',5,6.5,6.75,5,DEFAULT,DEFAULT,DEFAULT,DEFAULT);

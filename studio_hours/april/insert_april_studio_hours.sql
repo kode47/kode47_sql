@@ -13,5 +13,5 @@ insert into april_studio_hours(month, week, sunday_hours, monday_hours, tuesday_
 values('April',4,1,1,5,0,0,3,3);
 
 insert into april_studio_hours(month, week, sunday_hours, monday_hours, tuesday_hours, wednesday_hours, thursday_hours, friday_hours, saturday_hours)
-values('April',5,10,2,0,0,0,0,0);
+values('April',5,10,2,DEFAULT,DEFAULT,DEFAULT,DEFAULT,DEFAULT);
 
