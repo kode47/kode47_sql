@@ -1,6 +1,9 @@
 ## Kode47 SQL Code with PostgreSQL
-- Kudzai Nyandoro
-- SQL Experimental Tables
+### Kudzai Nyandoro
+### kudzai@zambezi.app
+
+- These are experimental tables I'm using to track time spent in the studio on
+  on a daily basis.
 
 - Assuming you have Postgres set up.
 
@@ -13,7 +16,7 @@ $ git clone git@github.com:kcny/kode47_sql.git
 1. Enter into the studio hours directory
 
 ```bash
-$ cd kode47_sql/studio_hours
+$ cd kode47_sql/studio_hours/main
 ```
 
 2. Create a database if you don't already have one
@@ -52,3 +55,6 @@ mydb=# \i avg_daily_hours.sql
 ```sql
 mydb=# \i daily_sum.sql
 ```
+
+7. I've also put the monthly studio hours into seperate file. So you can do the
+   above by intering into the respective monthly files.
