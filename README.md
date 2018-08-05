@@ -1,7 +1,7 @@
 ## Kode47 SQL Code with PostgreSQL
 ### Kudzai Nyandoro
-[https://zambezi.app]
-<kudzai@zambezi.app>
+- <https://zambezi.app>
+- <kudzai@zambezi.app>
 
 - Using SQL to track time spent in my studio.
 
