@@ -64,4 +64,11 @@ values('July',3,7,6,5,4.25,4.75,6.5,6);
 insert into studio_hours(month, week, sunday_hours, monday_hours, tuesday_hours, wednesday_hours, thursday_hours, friday_hours, saturday_hours)
 values('July',4,4.5,4.25,3.75,6.25,6,4,5.5);
 
+-- Week 5
+insert into studio_hours(month, week, sunday_hours, monday_hours, tuesday_hours, wednesday_hours, thursday_hours, friday_hours, saturday_hours)
+values('July',5,6.5,6.75,5,0,0,0,0);
 
+-- August 2018
+-- Week 1
+insert into studio_hours(month, week, sunday_hours, monday_hours, tuesday_hours, wednesday_hours, thursday_hours, friday_hours, saturday_hours)
+values('August',1,0,0,0,5,5,5,9.5);
