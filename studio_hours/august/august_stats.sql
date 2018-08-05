@@ -1,6 +1,5 @@
 -- Daily Totals
 
-SELECT 'All Current Months';
 SELECT sum(sunday_hours),
         sum(monday_hours),
         sum(tuesday_hours),
