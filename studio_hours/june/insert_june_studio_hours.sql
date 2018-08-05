@@ -1,6 +1,6 @@
 -- June 2018
 insert into june_studio_hours(month, week, sunday_hours, monday_hours, tuesday_hours, wednesday_hours, thursday_hours, friday_hours, saturday_hours)
-values('June',1,0,0,0,0,0,5.25,4.5);
+values('June',1,DEFAULT,DEFAULT,DEFAULT,DEFAULT,DEFAULT,5.25,4.5);
 
 insert into june_studio_hours(month, week, sunday_hours, monday_hours, tuesday_hours, wednesday_hours, thursday_hours, friday_hours, saturday_hours)
 values('June',2,6.5,4,6.25,3.5,3.5,3.5,2.25);
