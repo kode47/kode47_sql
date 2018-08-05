@@ -1,9 +1,9 @@
 ## Kode47 SQL Code with PostgreSQL
 ### Kudzai Nyandoro
-### kudzai@zambezi.app
+[https://zambezi.app]
+<kudzai@zambezi.app>
 
-- These are experimental tables I'm using to track time spent in the studio on
-  on a daily basis.
+- Using SQL to track time spent in my studio.
 
 - Assuming you have Postgres set up.
 
