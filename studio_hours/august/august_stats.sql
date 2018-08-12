@@ -1,12 +1,12 @@
 -- Daily Totals
 
-SELECT sum(sunday_hours),
-        sum(monday_hours),
-        sum(tuesday_hours),
-        sum(wednesday_hours),
-        sum(thursday_hours),
-        sum(friday_hours),
-        sum(saturday_hours)
+SELECT sum(sunday_hours) AS Sunday,
+        sum(monday_hours) AS Monday,
+        sum(tuesday_hours) AS Tuesday,
+        sum(wednesday_hours) AS Wednesday,
+        sum(thursday_hours) AS Thursday,
+        sum(friday_hours) AS Friday,
+        sum(saturday_hours) AS Saturday
 FROM august_studio_hours;
 
 
