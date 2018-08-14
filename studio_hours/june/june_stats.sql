@@ -12,24 +12,24 @@ FROM june_studio_hours;
 
 -- Daily Averages
 
-SELECT avg(sunday_hours) AS Sunday 
+SELECT trunc(avg(sunday_hours), 2) "Sunday Average Hours"
 FROM june_studio_hours;
 
-SELECT avg(monday_hours)  AS Monday
+SELECT trunc(avg(monday_hours), 2)  "Monday Average Hours"
 FROM june_studio_hours;
 
-SELECT avg(tuesday_hours) AS Tuesday
+SELECT trunc(avg(tuesday_hours), 2) "Tuesday Average Hours"
 FROM june_studio_hours;
 
-SELECT avg(wednesday_hours)  AS Wednesday
+SELECT trunc(avg(wednesday_hours), 2)  "Wednesday Average Hours"
 FROM june_studio_hours;
 
-SELECT avg(thursday_hours)  AS Thursday
+SELECT trunc(avg(thursday_hours), 2)  "Thursday Average Hours"
 FROM june_studio_hours;
 
-SELECT avg(friday_hours)  AS Friday
+SELECT trunc(avg(friday_hours), 2)  "Friday Average Hours"
 FROM june_studio_hours;
 
-SELECT avg(saturday_hours)  AS Saturday
+SELECT trunc(avg(saturday_hours), 2)  "Saturday Average Hours"
 FROM june_studio_hours;
 
