@@ -1,4 +1,5 @@
 --April 2018
+DELETE FROM april_studio_hours;
 
 insert into april_studio_hours(month, week, sunday_hours, monday_hours, tuesday_hours, wednesday_hours, thursday_hours, friday_hours, saturday_hours)
 values('April',1,1,4,4,5,5,3,4);

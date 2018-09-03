@@ -1,5 +1,7 @@
 -- July 2018
 -- Week 1
+DELETE FROM july_studio_hours;
+
 insert into july_studio_hours(month, week, sunday_hours, monday_hours, tuesday_hours, wednesday_hours, thursday_hours, friday_hours, saturday_hours)
 values('July',1,4,2,3,7,1,3.25,9.75);
 

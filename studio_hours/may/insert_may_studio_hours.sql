@@ -1,4 +1,6 @@
 -- May 2018
+DELETE FROM may_studio_hours;
+
 insert into may_studio_hours(month, week, sunday_hours, monday_hours, tuesday_hours, wednesday_hours, thursday_hours, friday_hours, saturday_hours)
 values('May',1,DEFAULT,2,2,1,0,3,0);
 
