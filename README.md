@@ -1,7 +1,7 @@
 ## Kode47 SQL Labs 
 ### Kudzai Nyandoro
-- <https://zambezi.app>
-- <kudzai@zambezi.app>
+- <https://kode47.com>
+- <support@kode47.com>
 
 - Using SQL to track time spent in my studio.
 
